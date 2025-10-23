@@ -85,7 +85,8 @@ void setup()
 
 void loop()
 {
-  uint16_t pot_val = analogRead(POT_PIN);if(abs(pot_val - last_val) > DEAD_ZONE)
+  uint16_t pot_val = analogRead(POT_PIN);
+
   if(abs(pot_val - last_val) > DEAD_ZONE)
   {
     float freq = map(pot_val, 0, 4095, 1080, 875) / 10.0;
