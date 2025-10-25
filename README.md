@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    Use a resistor between 330 and 500 ohm for 21 pin
+    Use a resistor between 330 and 500 ohm for pin 21 and 22
   </li>
   <li>
     If you are using breadboard like me, you can extend the antenna diagonal to breadboard as shown in the video below
