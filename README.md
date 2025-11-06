@@ -12,4 +12,4 @@
   </li>
 </ul>
 
-[INSERT VIDEO LINK HERE]
+[https://youtu.be/F7gLYuvSuHs]
